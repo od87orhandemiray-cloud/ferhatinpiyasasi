@@ -1,0 +1,8 @@
+{
+  "name": "BIST Derinlik Terminali",
+  "description": "Borsa İstanbul hisse senetleri için anlık 5 kademe alıcı-satıcı derinlik tablosu, canlı Bigpara piyasa verileri, emir defteri ve borsa takip terminali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
